@@ -1,0 +1,14 @@
+.index{
+    background-color: pink;
+}
+h3
+{
+font-size: 25px !important;
+}
+canvas {
+border:1px solid black;
+}
+.header{
+    width: 300px;
+    height: 30px;
+}
